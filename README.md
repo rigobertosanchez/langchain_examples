@@ -6,3 +6,4 @@ Se han reproducido los ejemplo y realizados algunos ajustes que se muestran en l
 desconozco si fuera por la version de langchain o por la forma de publicación.
 
 Ademas trate de agregar comentarios un poco mas descriptivos (aunque no en todos los casos).
+
