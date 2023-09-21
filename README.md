@@ -7,3 +7,10 @@ desconozco si fuera por la version de langchain o por la forma de publicación.
 
 Ademas trate de agregar comentarios un poco mas descriptivos (aunque no en todos los casos).
 
+## Dependencias
+
+En estos ejemplos para jupyter notebook se usa:
+
+- langchain==0.0.286
+- openai==0.28.0
+- chromadb==0.4.10
