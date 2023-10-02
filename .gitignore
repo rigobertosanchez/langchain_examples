@@ -188,3 +188,7 @@ pyrightconfig.json
 
 # Mac 
 .DS_Store
+
+# ChromaDB
+chromadb/
+chromadb/*
